@@ -34,4 +34,4 @@ You have the code but it's on your local PC let's make it LIVE on the web. GitHu
 <li>wait for a while(Let GitHub handle few things)</li>
 <li>Congratulation!!! You made it live on the web. Share the link with your friends and family and let them know you're tech guy out there!</li>
 
-## See you in the event for a live demonstration.
+## If you stuck somewhere, feel free to ask for help. 
